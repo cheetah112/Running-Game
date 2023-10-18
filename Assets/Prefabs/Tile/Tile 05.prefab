@@ -54,7 +54,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5de442c61c05bf446a43d869a92eed1d, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.6
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5de442c61c05bf446a43d869a92eed1d, type: 3}
       propertyPath: m_LocalRotation.w
@@ -121,14 +121,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 8751441642695676072}
     m_Modifications:
-    - target: {fileID: 5669520854841011801, guid: 12b91b6bf98b3184b8f13a573b7e1bb2, type: 3}
-      propertyPath: m_Convex
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5669520854841011801, guid: 12b91b6bf98b3184b8f13a573b7e1bb2, type: 3}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 6044287839736442154, guid: 12b91b6bf98b3184b8f13a573b7e1bb2, type: 3}
       propertyPath: m_Name
       value: Red barrier
@@ -136,18 +128,6 @@ PrefabInstance:
     - target: {fileID: 6389006332644849552, guid: 12b91b6bf98b3184b8f13a573b7e1bb2, type: 3}
       propertyPath: m_RootOrder
       value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6389006332644849552, guid: 12b91b6bf98b3184b8f13a573b7e1bb2, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 5.9893737
-      objectReference: {fileID: 0}
-    - target: {fileID: 6389006332644849552, guid: 12b91b6bf98b3184b8f13a573b7e1bb2, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 2.7549021
-      objectReference: {fileID: 0}
-    - target: {fileID: 6389006332644849552, guid: 12b91b6bf98b3184b8f13a573b7e1bb2, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 5.9893737
       objectReference: {fileID: 0}
     - target: {fileID: 6389006332644849552, guid: 12b91b6bf98b3184b8f13a573b7e1bb2, type: 3}
       propertyPath: m_LocalPosition.x

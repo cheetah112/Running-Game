@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 488652}
   - component: {fileID: 3379652}
   - component: {fileID: 2358908}
-  - component: {fileID: 6412108}
+  - component: {fileID: 5764044750372906975}
   m_Layer: 0
   m_Name: Christmas_Ball_09
   m_TagString: Untagged
@@ -26,7 +26,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 119890}
-  m_LocalRotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -84,8 +84,8 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &6412108
-MeshCollider:
+--- !u!135 &5764044750372906975
+SphereCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -94,7 +94,6 @@ MeshCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  serializedVersion: 4
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 4300000, guid: 110ce2a770d72754795c03c21ca6a642, type: 3}
+  serializedVersion: 2
+  m_Radius: 0.22590226
+  m_Center: {x: 0, y: 0, z: 0.000000007450581}
